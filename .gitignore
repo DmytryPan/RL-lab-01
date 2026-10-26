@@ -1,0 +1,20 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Временные файлы Office (открытый ЛР1.docx)
+~$*
+
+# IDE и ОС
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
