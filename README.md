@@ -19,7 +19,7 @@
 - [x] 3. Value iteration для функции ценности состояний
 - [x] 4. Метод кросс-энтропии
 - [x] 5. Q-learning
-- [ ] 6. SARSA и Expected Value SARSA (softmax), сравнение с Q-learning
+- [x] 6. SARSA и Expected Value SARSA (softmax), сравнение с Q-learning
 
 ## Запуск
 
