@@ -16,8 +16,8 @@
 
 - [x] 1. Знакомство со средой, `FullyObsWrapper`, `BinaryRewardWrapper`
 - [x] 2. Ручной расчёт трёх итераций уравнения Беллмана
-- [ ] 3. Value iteration для функции ценности состояний
-- [ ] 4. Метод кросс-энтропии
+- [x] 3. Value iteration для функции ценности состояний
+- [x] 4. Метод кросс-энтропии
 - [ ] 5. Q-learning
 - [ ] 6. SARSA и Expected Value SARSA (softmax), сравнение с Q-learning
 
